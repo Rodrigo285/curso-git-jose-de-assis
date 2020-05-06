@@ -1,1 +1,2 @@
 Apredendo a utilizar o git  e github.
+Entendendo  o head.
