@@ -1,1 +1,2 @@
 Este arquivo foi modificado no ramo master
+Esse arquivo foi modificado no ramo teste
